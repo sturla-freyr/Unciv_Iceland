@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, peace is the best path for both of us.",
 		"tradeRequest": "We offer you the bounty of our land in this trade offer.",
 
-		"outerColor": [0,38,100],
-		"innerColor": [0,0,255],
+		"outerColor": [0,0,255],
+		"innerColor": [255,0,0],
 		"unique": "CULTURAL_HERITAGE",
 		"cities": ["Reykjavík","Akureyri","Hafnarfjörður","Kópavogur","Garðabær","Mosfellsbær","Árborg","Akranes","Fjarðabyggð",
 			"Grindavík","Ísafjörður","Borgarnes","Hveragerði","Neskaupstaður","Seyðisfjörður","Egilsstaðir","Selfoss","Húsavík",
