@@ -2,7 +2,7 @@
 	{
 		"name": "Iceland",
 		"leaderName": "Eirikur",
-		"adjective": ["Icelandic"],
+		"adjective": ["icelandic"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Cultural",
 		
@@ -28,7 +28,7 @@
 		"tradeRequest": "We offer you the bounty of our land in this trade offer.",
 
 		"outerColor": [0,38,100],
-		"innerColor": [255,255,255],
+		"innerColor": [0,0,255],
 		"unique": "CULTURAL_HERITAGE",
 		"cities": ["Reykjavík","Akureyri","Hafnarfjörður","Kópavogur","Garðabær","Mosfellsbær","Árborg","Akranes","Fjarðabyggð",
 			"Grindavík","Ísafjörður","Borgarnes","Hveragerði","Neskaupstaður","Seyðisfjörður","Egilsstaðir","Selfoss","Húsavík",
