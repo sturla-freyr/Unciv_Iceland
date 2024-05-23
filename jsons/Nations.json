@@ -3,7 +3,7 @@
 		"name": "Iceland",
 		"leaderName": "Eirikur",
 		"adjective": ["icelandic"],
-		"startBias": ["coast", "snow"],
+		"startBias": ["Coast", "Snow"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Welcome to the land of fire and ice!",
