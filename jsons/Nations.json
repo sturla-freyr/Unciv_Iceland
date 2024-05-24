@@ -3,7 +3,7 @@
 		"name": "Iceland",
 		"leaderName": "Eirikur",
 		"adjective": ["icelandic"],
-		"startBias": ["Coast", "Snow"],
+		"startBias": ["Coast", "Avoid [Desert]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Welcome to the land of fire and ice!",
@@ -30,7 +30,7 @@
 		"outerColor": [0,0,255],
 		"innerColor": [255,0,0],
 		"uniques": [
-			"[+1 Gold, +1 Culture] from [Coast] tiles [in all cities]",
+			"[+1 Gold, +1 Production] from [Coast] tiles [in all cities]",
 
 			"Free [Great Artist] appears <upon discovering [Writing] technology>",
 			"[Great Artist] is earned [50]% faster"
