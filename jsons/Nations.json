@@ -1,31 +1,31 @@
 [
 	{
 		"name": "Iceland",
-		"leaderName": "Eirikur",
-		"adjective": ["icelandic"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-		
-		"startIntroPart1": "Welcome to the land of fire and ice!",
-		"startIntroPart2": "This is an example nation for the mods feature. Let our rich culture and natural beauty inspire you!",
-		
-		"declaringWar": "You have stirred the volcanoes of our wrath! Prepare for a fierce battle!",
-		"attacked": "You dare challenge us? Prepare to feel the chill of our defense!",
-		"defeated": "How could our mighty glaciers be shattered? The sagas will remember this defeat.",
-		"introduction": "As proud Icelanders, our heritage and landscapes are unmatched.",
-		
-		"neutralHello": "Greetings, traveler.",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We cannot agree to that.","No, thank you.","I must refuse."],
-		"neutralYes": ["Very well.","Of course, yes.","That is acceptable."],
+        "leaderName": "Ingolfur Arnarson",
+        "adjective": ["Icelandic"],
+        "startBias": ["Coast"],
+        "preferredVictoryType": "Cultural",
+        
+        "startIntroPart1": "Be happy and blessed, Ingolfur Arnarson, valiant pioneer of Iceland! After braving the treacherous sea, you achieved great feats of exploration and settlement across the rugged landscape of Iceland. Despite the harsh environment and numerous hardships, your adventurous nature allowed you to establish a thriving community.",
+        "startIntroPart2": "Your people have endured through the centuries, preserving the traditions, folklore, and history of ages past. The written records recount bravery and strength of your people, and these sagas are destined to become inspiration for future generations. Stories, filled with vivid imaginations of elves, trolls, and other mystical beings, reflect a deep connection to the land and a love for storytelling that has become a cornerstone of Icelandic culture. The Icelandic nation endured through the centuries, preserving their rich heritage. By the will of the gods and the strength of your people, will your legacy of resilience and culture shine through the annals of history, or will it fade into the dark, cold winter? The fate of Iceland rests in your hands, Ingolfur, leader of the bold and enduring Icelandic nation.",
+        
+        "declaringWar": "You have awakened the ancient spirits of our land! Prepare to face their wrath!",
+        "attacked": "You dare to challenge the descendants of the sagas? Brace yourself for our icy defense!",
+        "defeated": "Our tales of heroism and struggle will endure, even in defeat. This is not the end.",
+        "introduction": "I am Ingolfur Arnarson, the first settler of Iceland. Our culture is as resilient as the volcanic land we inhabit.",
+        
+        "neutralHello": "Greetings, wanderer.",
+        "neutralLetsHearIt": ["Speak your mind.", "What do you propose?", "Let us hear your words."],
+        "neutralNo": ["We cannot accept that.", "No, that will not do.", "I must decline."],
+        "neutralYes": ["Agreed.", "Yes, that is acceptable.", "Very well, we agree."],
 
-		"hateHello": "What brings you here?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We cannot agree to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, peace is the best path for both of us.",
-		"tradeRequest": "We offer you the bounty of our land in this trade offer.",
+        "hateHello": "What brings you to our shores?",
+        "hateLetsHearIt": ["Speak quickly.", "What do you want?", "Out with it."],
+        "hateNo": ["Absolutely not!", "We refuse your offer!", "That is out of the question."],
+        "hateYes": ["Fine, if it must be.", "We accept, begrudgingly.", "Very well, but be warned."],
+        
+        "afterPeace": "Peace is wise. Let us focus on our heritage and future.",
+        "tradeRequest": "We offer you the fruits of our resilient land in this trade.",
 
 		"outerColor": [0,0,255],
 		"innerColor": [255,0,0],
