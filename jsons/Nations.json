@@ -28,7 +28,7 @@
         "tradeRequest": "We offer you the fruits of our resilient land in this trade.",
 
 		"outerColor": [255,90,0],
-		"innerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniques": [
 			"[+1 Gold, +1 Production] from [Coast] tiles [in all cities]",
 			"[+1 Gold, +1 Production] from [Coast] tiles [in all cities] <upon discovering [Banking] technology>",
