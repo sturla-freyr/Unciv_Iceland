@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Iceland",
-        "leaderName": "Ingolæöfur Arnarson",
+        "leaderName": "Ingólfur Arnarson",
         "adjective": ["Icelandic"],
         "startBias": ["Coast"],
         "preferredVictoryType": "Cultural",
@@ -27,11 +27,11 @@
         "afterPeace": "Peace is wise. Let us focus on our heritage and future.",
         "tradeRequest": "We offer you the fruits of our resilient land in this trade.",
 
-		"outerColor": [0,0,255],
-		"innerColor": [255,0,0],
+		"outerColor": [255,90,0],
+		"innerColor": [0,0,0],
 		"uniques": [
 			"[+1 Gold, +1 Production] from [Coast] tiles [in all cities]",
-
+			"[+1 Gold, +1 Production] from [Coast] tiles [in all cities] <upon discovering [Banking] technology>",
 			"Free [Great Artist] appears <upon discovering [Writing] technology>",
 			"[Great Artist] is earned [50]% faster"
 		],
