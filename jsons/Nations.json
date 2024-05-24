@@ -30,10 +30,10 @@
 		"outerColor": [0,0,255],
 		"innerColor": [255,0,0],
 		"uniques": [
-			"+1 Culture, +1 Gold from Coastal tiles until the Industrial Era",
-			"+2 Gold from Coastal tiles starting from the Industrial Era",
-			"Receive a free Great Artist upon discovering Writing",
-			"+5% Great Artist generation per 3 Population in all cities"
+			"[+1 Gold, +1 Culture] in cities on [Coast] tiles",
+
+			"Free [Great Artist] appears <upon discovering [Writing] technology>",
+			"[Great Artist] is earned [50]% faster"
 		],
 		"cities": ["Reykjavík","Akureyri","Hafnarfjörður","Kópavogur","Garðabær","Mosfellsbær","Árborg","Akranes","Fjarðabyggð",
 			"Grindavík","Ísafjörður","Borgarnes","Hveragerði","Neskaupstaður","Seyðisfjörður","Egilsstaðir","Selfoss","Húsavík",
