@@ -30,7 +30,7 @@
 		"outerColor": [0,0,255],
 		"innerColor": [255,0,0],
 		"uniques": [
-			"[+1 Gold, +1 Culture] in cities on [Coast] tiles",
+			"[+1 Gold, +1 Culture] from [Coast]",
 
 			"Free [Great Artist] appears <upon discovering [Writing] technology>",
 			"[Great Artist] is earned [50]% faster"
