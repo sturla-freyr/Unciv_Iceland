@@ -30,11 +30,12 @@
 
 		"outerColor": [65, 141, 254],
 		"innerColor": [255,255,255],
+		"uniqueName": "North-Atlantic Heritage",
 		"uniques": [
-			"[+1 Gold, +1 Production] from [Coast] tiles [in all cities]",
-			"[+1 Gold, +1 Production] from [Coast] tiles [in all cities] <upon discovering [Banking] technology>",
 			"Free [Great Artist] appears <upon discovering [Writing] technology>",
-			"[Great Artist] is earned [50]% faster"
+			"[Great Artist] is earned [50]% faster",
+			"[+1 Gold] from [Coast] tiles [in all cities]"
+			
 		],
 		"cities": ["Reykjavík","Akureyri","Hafnarfjörður","Kópavogur","Garðabær","Mosfellsbær","Árborg","Akranes","Fjarðabyggð",
 			"Grindavík","Ísafjörður","Borgarnes","Hveragerði","Neskaupstaður","Seyðisfjörður","Egilsstaðir","Selfoss","Húsavík",
